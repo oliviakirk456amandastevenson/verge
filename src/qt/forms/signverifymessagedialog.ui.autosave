@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>700</width>
-    <height>401</height>
+    <height>405</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -75,7 +75,7 @@ border-bottom-right-radius: 5px;
             <string/>
            </property>
            <property name="icon">
-            <iconset resource="../bitcoin.qrc">
+            <iconset>
              <normaloff>:/icons/address-book_filled</normaloff>:/icons/address-book_filled</iconset>
            </property>
            <property name="shortcut">
@@ -101,7 +101,7 @@ border-bottom-right-radius: 5px;</string>
             <string/>
            </property>
            <property name="icon">
-            <iconset resource="../bitcoin.qrc">
+            <iconset>
              <normaloff>:/icons/editpaste</normaloff>:/icons/editpaste</iconset>
            </property>
            <property name="shortcut">
@@ -164,7 +164,7 @@ border-bottom-right-radius: 5px;
             <string/>
            </property>
            <property name="icon">
-            <iconset resource="../bitcoin.qrc">
+            <iconset>
              <normaloff>:/icons/editcopy</normaloff>:/icons/editcopy</iconset>
            </property>
            <property name="autoDefault">
@@ -189,7 +189,7 @@ border-bottom-right-radius: 5px;
             <string>&amp;Sign Message</string>
            </property>
            <property name="icon">
-            <iconset resource="../bitcoin.qrc">
+            <iconset>
              <normaloff>:/icons/edit</normaloff>:/icons/edit</iconset>
            </property>
            <property name="autoDefault">
@@ -209,7 +209,7 @@ border-bottom-right-radius: 5px;
             <string>Clear &amp;All</string>
            </property>
            <property name="icon">
-            <iconset resource="../bitcoin.qrc">
+            <iconset>
              <normaloff>:/icons/remove</normaloff>:/icons/remove</iconset>
            </property>
            <property name="autoDefault">
@@ -322,7 +322,7 @@ border-bottom-right-radius: 5px;
             <string/>
            </property>
            <property name="icon">
-            <iconset resource="../bitcoin.qrc">
+            <iconset>
              <normaloff>:/icons/address-book_filled</normaloff>:/icons/address-book_filled</iconset>
            </property>
            <property name="shortcut">
@@ -366,7 +366,7 @@ max-height: 25px;</string>
             <string>&amp;Verify Message</string>
            </property>
            <property name="icon">
-            <iconset resource="../bitcoin.qrc">
+            <iconset>
              <normaloff>:/icons/transaction_0</normaloff>:/icons/transaction_0</iconset>
            </property>
            <property name="autoDefault">
@@ -386,7 +386,7 @@ max-height: 25px;</string>
             <string>Clear &amp;All</string>
            </property>
            <property name="icon">
-            <iconset resource="../bitcoin.qrc">
+            <iconset>
              <normaloff>:/icons/remove</normaloff>:/icons/remove</iconset>
            </property>
            <property name="autoDefault">
